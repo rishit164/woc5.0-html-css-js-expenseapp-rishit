@@ -1,0 +1,46 @@
+.main {
+    background-color: rgb(19, 14, 14);
+    color: #b71515;
+    text-align: center;
+    height: fit-content;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    font-weight: bolder;
+    padding-top: 0.2%;
+    padding-bottom: 0.1%;
+    font-size: 5vw;
+}
+body{
+    margin: 0%;
+    background-color:#454545;
+}
+.card{
+    margin-top: 15%;
+    margin-left: 5%;
+    background-color: #beacac;
+    width: 25%;
+    height: 50%;
+}
+.expense
+{
+background-color: #04071599;
+height: fit-content;
+color: #040715;
+display: block;
+text-align: center;
+font-weight: bold;
+padding-top: 1%;
+font-size: 3vw;
+}
+.plus{
+    display: block;
+    margin-top: 3%;
+    margin-left: 90%;
+    margin-right: 7.5%;
+}
+.btn{
+     border: 2px solid red;
+     display:block;
+margin-right: auto;
+}
